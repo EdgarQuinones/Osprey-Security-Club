@@ -13,8 +13,10 @@ Osprey Security (OSEC) is a student-led cyber security club at the University of
 - **Responsibilities:**
   - [Attend meetings]
   - [Be open to learning]
+ 
+## Competitions 
 
-### [NCAE Cyber Games 2024]
+### NCAE Cyber Games 2024
 
 - **Overview:** [Red vs Blue Cyber Security Competition]
 - **Role:** [Captain of 8 teammates total]
