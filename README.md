@@ -30,7 +30,7 @@ Osprey Security (OSEC) is a student-led cyber security club at the University of
 
 ## Reflections
 
-[I don't think I would be where I am today if it weren't for OSEC. I met many great people. learned so much, and it made my college experience so much better. I wouldn't change a thing.]
+I don't think I would be where I am today if it weren't for OSEC. I met many great people. learned so much, and it made my college experience so much better. I wouldn't change a thing.
 
 ## Future Goals
 
