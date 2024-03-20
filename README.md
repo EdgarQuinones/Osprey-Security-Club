@@ -1,8 +1,6 @@
-# [Your Name] - My Journey with Osprey Security (OSEC)
-
+# Edgar Quinones - My Journey with Osprey Security (OSEC)
 ## Introduction
-
-Hello! I'm [Your Name], a [Your Major] student at [Your University/College]. This repository is a personal showcase of my journey and growth as a member of the Osprey Security club (OSEC), where I've had the privilege to explore the world of cyber security, participate in competitions, and contribute to various projects. Here, I share my experiences, projects, and the invaluable skills I've gained along the way.
+While pursuing my bachelor's of Information Technology at the University of North Florida, I decided to join the Osprey Security Club (OSEC). This is one of the best decisions I made while I was at UNF since I ended up learning a wide variety of practical cybersecurity skills. Below are the things I learned, the events I went to, my position in the club, and more.
 
 ## About OSEC
 
@@ -10,40 +8,28 @@ Osprey Security (OSEC) is a student-led cyber security club at [University/Colle
 
 ## My Role in OSEC
 
-- **Position:** [Your Position, e.g., Member, Project Lead, etc.]
-- **Duration:** [Your Duration in the club, e.g., September 202X - Present]
+- **Position:** [Member]
+- **Duration:** [January 2024 - Present]
 - **Responsibilities:**
-  - [List your key responsibilities, e.g., leading projects, organizing workshops, mentoring new members.]
+  - [Attend meetings]
+  - [Be open to learning]
 
-## Projects and Competitions
+### [NCAE Cyber Games 2024]
 
-### [Project/Competition Name 1]
-
-- **Overview:** [Brief description of the project/competition]
-- **Role:** [Your role in this project/competition]
-- **Technologies/Skills:** [List the technologies used or skills learned/practiced]
-- **Outcome:** [Briefly describe the outcome or your contribution]
-
-### [Project/Competition Name 2]
-
-- **Overview:** [Brief description of the project/competition]
-- **Role:** [Your role in this project/competition]
-- **Technologies/Skills:** [List the technologies used or skills learned/practiced]
-- **Outcome:** [Briefly describe the outcome or your contribution]
-
-## Workshops and Training
-
-- [List any workshops you conducted or attended, and share what you learned. This could include workshop titles, skills learned, and any certifications received.]
+- **Overview:** [Red vs Blue Cyber Security Competition]
+- **Role:** [Captain of 8 teammates total]
+- **Technologies/Skills:** [Networking, Incident Response, etc]
+- **Outcome:** [Preformed exceptional and learned a lot]
 
 ## Skills Developed
 
-- **Technical Skills:** [List the technical cyber security skills you developed, e.g., network security analysis, ethical hacking, digital forensics.]
-- **Soft Skills:** [Mention any soft skills enhanced during your time in OSEC, e.g., leadership, teamwork, problem-solving.]
+- **Technical Skills:** [Network Security Analysis, Ethical Hacking, Digital Forensics.]
+- **Soft Skills:** [Leadership, Teamwork, Problem-Solving.]
 
 ## Reflections
 
-[Share your reflections on how being a part of OSEC has impacted you, professionally and personally. Highlight any growth you've experienced, challenges overcome, and how it's shaped your career aspirations in cyber security.]
+[I don't think I would be where I am today if it weren't for OSEC. I met many great people. learned so much, and it made my college experience so much better. I wouldn't change a thing.]
 
 ## Future Goals
 
-[Discuss any future goals you have in cyber security, inspired by your time in OSEC. This could include career aspirations, areas of specialization you wish to explore, or further contributions to the cyber security community.]
+[The goal now is to keep learning to get a Jr position at a SOC company. I will keep learning, doing competitions, and making projects as Cyber Security is something I very much enjoy working on.]
