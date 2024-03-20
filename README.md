@@ -4,7 +4,7 @@ While pursuing my bachelor's of Information Technology at the University of Nort
 
 ## About OSEC
 
-Osprey Security (OSEC) is a student-led cyber security club at [University/College Name]. It's a community of enthusiastic learners and skilled professionals dedicated to improving our understanding and capabilities in cyber security through workshops, projects, and competitions.
+Osprey Security (OSEC) is a student-led cyber security club at the University of North Florida. It's a community of enthusiastic learners and skilled professionals dedicated to improving our understanding and capabilities in cyber security through workshops, projects, and competitions.
 
 ## My Role in OSEC
 
