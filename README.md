@@ -8,25 +8,25 @@ Osprey Security (OSEC) is a student-led cyber security club at the University of
 
 ## My Role in OSEC
 
-- **Position:** [Member]
-- **Duration:** [January 2024 - Present]
+- **Position:** Member
+- **Duration:** January 2024 - Present
 - **Responsibilities:**
-  - [Attend meetings]
-  - [Be open to learning]
+  - Attend meetings
+  - Be open to learning
  
 ## Competitions 
 
-### NCAE Cyber Games 2024
+### [NCAE Cyber Games 2024](https://github.com/EdgarQuinones/NCAE-Red-vs-Blue-Competition/blob/main/README.md)
 
-- **Overview:** [Red vs Blue Cyber Security Competition]
-- **Role:** [Captain of 8 teammates total]
-- **Technologies/Skills:** [Networking, Incident Response, etc]
-- **Outcome:** [Preformed exceptional and learned a lot]
+- **Overview:** Red vs Blue Cyber Security Competition
+- **Role:** Captain of 8 teammates total
+- **Technologies/Skills:** Networking, Incident Response, etc
+- **Outcome:** Preformed exceptional and learned a lot
 
 ## Skills Developed
 
-- **Technical Skills:** [Network Security Analysis, Ethical Hacking, Digital Forensics.]
-- **Soft Skills:** [Leadership, Teamwork, Problem-Solving.]
+- **Technical Skills:** Network Security Analysis, Ethical Hacking, Digital Forensics.
+- **Soft Skills:** Leadership, Teamwork, Problem-Solving.
 
 ## Reflections
 
