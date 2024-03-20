@@ -34,4 +34,4 @@ Osprey Security (OSEC) is a student-led cyber security club at the University of
 
 ## Future Goals
 
-[The goal now is to keep learning to get a Jr position at a SOC company. I will keep learning, doing competitions, and making projects as Cyber Security is something I very much enjoy working on.]
+[The goal now is to keep learning to get a junior position at a SOC company. I will keep learning, doing competitions, and making projects as Cyber Security is something I very much enjoy working on.]
