@@ -34,4 +34,4 @@ I don't think I would be where I am today if it weren't for OSEC. I met many gre
 
 ## Future Goals
 
-[The goal now is to keep learning to get a junior position at a SOC company. I will keep learning, doing competitions, and making projects as Cyber Security is something I very much enjoy working on.]
+The goal now is to keep learning to get a junior position at a SOC company. I will keep learning, doing competitions, and making projects as Cyber Security is something I very much enjoy working on.
