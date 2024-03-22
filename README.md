@@ -21,7 +21,7 @@ Osprey Security (OSEC) is a student-led cyber security club at the University of
 - **Overview:** Red vs Blue Cyber Security Competition
 - **Role:** Captain of 8 teammates total
 - **Technologies/Skills:** Networking, Incident Response, etc
-- **Outcome:** Preformed exceptional and learned a lot
+- **Outcome:** Preformed well and learned a lot
 
 ## Skills Developed
 
