@@ -26,8 +26,12 @@ Osprey Security (OSEC) is a student-led cyber security club at the University of
 
 - **Overview:** Capture the Flag Security Competition
 - **Role:** Captain of 5 teammates total
-- **Technologies/Skills:** Cryptography, Password Cracking, Digital Forensics, Log Analysic, and more Pen testing skills...
+- **Technologies/Skills:** Cryptography, Password Cracking, Digital Forensics, Log analysis, and more Pen testing skills...
 - **Outcome:** TBD
+
+## Resources Created
+This Google Drive contains almost everything we used for the various competitions we competed in. 
+[Google Drive](https://drive.google.com/drive/folders/1V1DYd_GKkaQcbs_wL2DT55NWXW6IidP_)
 
 ## Skills Developed
 
