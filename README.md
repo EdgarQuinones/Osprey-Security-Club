@@ -8,11 +8,13 @@ Osprey Security (OSEC) is a student-led cyber security club at the University of
 
 ## My Role in OSEC
 
-- **Position:** Member
+- **Position:** Team Captain for competitions
 - **Duration:** January 2024 - Present
 - **Responsibilities:**
   - Attend meetings
-  - Be open to learning
+  - Teach fellow club members about IT
+  - Officer
+  - Give presentations
  
 ## Competitions 
 
